@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/evanmcpheron/mern-npm/issues"
   },
-  "homepage": "https://github.com/evanmcpheron/mern-npm#readme"
+  "homepage": "https://github.com/evanmcpheron/mern-npm#readme",
+  "dependencies": {
+    "concurrently": "^5.3.0",
+    "nodemon": "^2.0.4"
+  }
 }
