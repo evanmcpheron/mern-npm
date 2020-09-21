@@ -18,6 +18,9 @@
   "homepage": "https://github.com/evanmcpheron/mern-npm#readme",
   "dependencies": {
     "concurrently": "^5.3.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.6",
     "nodemon": "^2.0.4"
   }
 }
